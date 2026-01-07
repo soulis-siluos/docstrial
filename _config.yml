@@ -3,7 +3,7 @@ description: Testing out the just-the-docs template
 theme: just-the-docs
 url: https://soulis-siluos.github.io/docstrial
 
-color_scheme: wide
+#color_scheme: wide
 
 # enable sidebar on all pages
 nav_enabled: true
