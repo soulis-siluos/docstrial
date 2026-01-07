@@ -1,6 +1,5 @@
 ---
 title: Docs About
-layout: Docs About
 summary: Some stuff
 nav_exclude: false
 has_children: false
