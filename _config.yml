@@ -5,6 +5,9 @@ url: https://soulis-siluos.github.io/docstrial
 
 color_scheme: wide
 
+# enable sidebar on all pages
+nav_enabled: true
+
 #defaults:
 #  - scope:
 #      path: "docs" # an empty string here means all files in the project
