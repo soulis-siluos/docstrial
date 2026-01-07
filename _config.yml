@@ -3,6 +3,8 @@ description: Testing out the just-the-docs template
 theme: just-the-docs
 url: https://soulis-siluos.github.io/docstrial
 
+color_scheme: wider
+
 #defaults:
 #  - scope:
 #      path: "docs" # an empty string here means all files in the project
