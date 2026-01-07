@@ -1,6 +1,5 @@
 ---
 title: Docs Home
-layout: Docs Page
 summary: Some stuff
 nav_exclude: false
 has_children: false
