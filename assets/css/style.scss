@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}"; 
+
+/* Example CSS to increase content width */
+.inner, .md-grid {
+  max-width: 90% !important; /* Adjust percentage or use a value like 100rem */
+}
+
+/* Target the main content specifically if needed */
+.md-main__inner.md-grid {
+  max-width: 100% !important; 
+}
