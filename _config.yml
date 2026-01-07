@@ -3,7 +3,7 @@ description: Testing out the just-the-docs template
 theme: just-the-docs
 url: https://soulis-siluos.github.io/docstrial
 
-color_scheme: wider
+color_scheme: wide
 
 #defaults:
 #  - scope:
