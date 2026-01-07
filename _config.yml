@@ -4,7 +4,7 @@ theme: just-the-docs
 url: https://soulis-siluos.github.io/docstrial
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: wide
 
 #defaults:
 #  - scope:
